@@ -1,11 +1,24 @@
+/* target all elements */
+
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* target body elements */
+
 body {
     background-color: #d9dcd6;
+    font-size: 16px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+/* target link */
+
+a {
+    color: #ffffff;
+    text-decoration: none;
 }
 
 header {
@@ -24,7 +37,7 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
-header div {
+header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -41,10 +54,7 @@ header div ul li {
     margin-left: 25px;
 }
 
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
+
 
 p {
     font-size: 16px;
