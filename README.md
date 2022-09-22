@@ -6,6 +6,7 @@
 
 ## Installation
 
+Clone the repository locally and double click `index.html` or click on the link below in the usage section
 
 
 ## Usage
