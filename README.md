@@ -17,6 +17,10 @@ Screenshot of website
 
 To visit please click on link [link](https://vsoto7697.github.io/module1Horiseon/)
 
+## Challenges
+One thing I had trouble on was cloning my repository, I kept receiving errors. I also struggled with deploying my url and using the functionality of pushing and pulling to and from github. I believe that my biggest challenge was understanding how to target specific elements in html with css, I was able to utilize differentiate classes and that helped me overcome this issue I was having.
+
+
 ## License
 
 
