@@ -10,10 +10,11 @@
 
 ## Usage
 
-A simple static site, view link above to browse.
+Screenshot of website
 
-![Horiseon social solutions website](assets/images/horiseon-social-solutions.png)
+![screencapture-vsoto7697-github-io-module1Horiseon-2022-09-22-21_18_34](https://user-images.githubusercontent.com/109629515/191853432-ddfb8365-07cf-4581-b1f0-7c0973065ada.png)
 
+To visit please click on link [link](https://vsoto7697.github.io/module1Horiseon/)
 
 ## License
 
